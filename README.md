@@ -13,13 +13,13 @@ nstallation
 To install and run the application on your local machine, follow these steps:
 Clone the repository to your local machine: git clone https://github.com//users-management.git
 
-Navigate to the project directory: cd users-management
+1. Navigate to the project directory: cd users-management
 
-Install the backend dependencies: ./mvnw clean install
+2. Install the backend dependencies: ./mvnw clean install
 
-Create a PostgreSQL database named users
+3. Create a PostgreSQL database named users
 
-Run the backend application:
+4. Run the backend application:
 
 
 
