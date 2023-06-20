@@ -9,7 +9,7 @@
 ## Prerequisites
 Java 17
 
-nstallation
+# installation
 To install and run the application on your local machine, follow these steps:
 Clone the repository to your local machine: git clone https://github.com//users-management.git
 
