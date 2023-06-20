@@ -5,4 +5,9 @@
 - Java Spring
 - PostgreSQL
 
+# Getting Started
+## Prerequisites
+Java 17
+
+
   
